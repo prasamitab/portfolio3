@@ -2,7 +2,7 @@
 
 A personal portfolio built with **React** and **React Router**, deployable to GitHub Pages.
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Install dependencies
 ```bash
@@ -39,7 +39,7 @@ portfolio/
 
 ---
 
-## 🌐 Deploy to GitHub Pages
+## Deploy to GitHub Pages
 
 ### Step 1 — Push to GitHub
 ```bash
@@ -87,7 +87,7 @@ npm run deploy
 
 ---
 
-## 🎨 Tech Stack
+##  Tech Stack
 
 - React 18
 - React Router DOM 6
