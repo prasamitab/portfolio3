@@ -186,11 +186,7 @@ export default function Home() {
   </a>
 
   
-  <a 
-    href="/resume.pdf" 
-    download 
-    className="btn btn-primary"
-  >
+  <a href={`${process.env.PUBLIC_URL}/resume.pdf`} download className="btn btn-primary">
     Download Resume ↓
   </a>
 </div>
