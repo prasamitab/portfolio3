@@ -69,7 +69,7 @@ const projects = [
     
     desc: 'Strategy game built using Java threads and GUI. Features multi-civilization gameplay, resource management, and combat simulation with concurrent turn processing.',
     tags: ['Java', 'Threads', 'GUI', 'OOP'],
-    github: 'https://github.com/prasamitab',
+    github: 'https://github.com/prasamitab/civilization-strategy-sim',
   },
   {
     id: 7,
